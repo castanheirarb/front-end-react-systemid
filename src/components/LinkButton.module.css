@@ -1,0 +1,21 @@
+.btn {
+    background-color: #1379f5;
+    color: #fff;
+    padding: 0.5em 1em;
+    text-decoration: none;
+    transition: 0.5s;
+    display: flex;
+  }
+  
+  .btn:hover {
+    color: #FFF; 
+    background-color: #0C3257; 
+  }
+  
+  .btn_home {
+    width: 60%;
+    height: 10%;
+    margin-top: 10px;
+    
+  }
+  
